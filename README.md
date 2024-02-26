@@ -6,3 +6,5 @@ Curious tech newbie
 2. is
 3. an
 4. ordered list
+
+   ![Jokes Card](https://readme-jokes.vercel.app/api)
