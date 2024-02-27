@@ -1,11 +1,5 @@
-# Hi there
-Curious tech newbie
+# Hi there 
+* curious tech newbie :eyes:
 
-
-
-1. this
-2. is
-3. an
-4. ordered list
 
 
