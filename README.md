@@ -1,5 +1,5 @@
-👋 This is Nora. 
-I'm a graduate of the WebDev bootcamp by neuefische, eager to connect and learn ✨
+Hi 👋 This is Nora. 
+<br>I'm a graduate of the WebDev Bootcamp by neuefische, eager to connect and learn ✨
 
 * 👀 curious tech newbie 
 * 👩‍💻 skills include `JS`, `HTML`, `CSS`, `React.js`,`Next.js`, ...
