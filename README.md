@@ -39,7 +39,5 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 
 ![herbie-screeshot](https://github.com/user-attachments/assets/9a49ec89-75fc-4fcd-88cc-2b61755a21bc)
 
-herbie is your guide to natural health and wellness, putting the power of self-made remedies right at your fingertips. Whether you’re looking to soothe a common cold, enhance your skincare routine, or find natural solutions for everyday ailments, herbie offers a wealth of easy-to-follow recipes and tips to help you create remedies at home.
-
 
 
