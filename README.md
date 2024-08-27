@@ -1,11 +1,30 @@
-Hi 👋 This is Nora. 
-<br>I'm a graduate of the WebDev Bootcamp by neuefische, eager to connect and learn ✨
+# Hi there 👋 This is Nora. 
 
-* 👀 curious tech newbie 
-* 👩‍💻 skills include `JS`, `HTML`, `CSS`, `React.js`,`Next.js`, ...
-* ⚓ based in Hamburg, Germany
-* ☀️ morning person*
+It's nice having you here.
 
-\* when provided Espresso
+## 👩🏼‍💻 About me
 
-To learn more about me go to [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?locale=en_US).
+Curious Full Stack Dev, eager to connect and learn ✨
+
+- 👩🏼‍🎓 neuefische Web Development Bootcamp (graduate)
+- 📚 neuefische Java Development Bootcamp (currently)
+- ⚓ based in Hamburg, Germany
+
+Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?locale=en_US).
+
+## 🧠 Skills
+
+- CSS
+- Git
+- HTML
+- IntelliJ IDEA
+- JavaScript
+- Java
+- Maven
+- MongoDB
+- Next.js
+- React
+- Shell
+- Typescript
+- Vercel
+- Visual Studio Code
