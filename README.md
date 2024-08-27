@@ -28,16 +28,21 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 - Vercel
 - Visual Studio Code
 
-## 🔧 Previous Projects
+## 🔧 Projects
 
-### herbie – Guru of Health
+#### [herbie – Guru of Health](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony)
 
 - Four-week-project as journeyman’s piece for the neuefische Web Development Bootcamp
 - Tech Stack: React, next.js, MongoDB, SWR, Replicate AI, toatify, nextauth.js et. al.
 - Special feature: AI generated images for user created recipes
-- Check out the [Vercel implementation](https://herbie.vercel.app/) or the [GitHub repository](https://github.com/nora-kauczor/herbie---Guru-of-Health)
+- Check out the Vercel implementation [here](https://herbie.vercel.app/)
 
-![herbie-screeshot](https://github.com/user-attachments/assets/9a49ec89-75fc-4fcd-88cc-2b61755a21bc)
+<img src="https://github.com/user-attachments/assets/9a49ec89-75fc-4fcd-88cc-2b61755a21bc" alt="Screenshot of herbie app" width="200"/>
+
+#### [Yumm! Home of Culinary Harmony](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony) (in progress)
+- Flavor Pairing App
+- Tech Stack: React, next.js, SWR, useRouter et.al.
+
 
 
 
