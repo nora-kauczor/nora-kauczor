@@ -1,4 +1,4 @@
-# Hi there 👋 This is Nora. 
+# Hi there 👋
 
 It's nice having you here.
 
@@ -25,6 +25,5 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 - Next.js
 - React
 - Shell
-- Typescript
 - Vercel
 - Visual Studio Code
