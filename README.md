@@ -19,7 +19,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 - Four-week-project as journeyman’s piece for the neuefische Web Development Bootcamp
 - Tech Stack: `React` `next.js` `MongoDB` `SWR` `Replicate AI` `toastify` `nextauth.js` et. al.
 - Special feature: AI generated images for user created recipes
-- Check out the Vercel implementation [here](https://herbie.vercel.app/)
+- Check out the Vercel deployment [here](https://herbie.vercel.app/)
 
 <img src="https://github.com/user-attachments/assets/9a49ec89-75fc-4fcd-88cc-2b61755a21bc" alt="Screenshot of herbie app" width="200"/>
 
