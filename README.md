@@ -1,47 +1,32 @@
-# Hi there 👋
+## Hi there 👋
 
 It's nice having you here.
 
-## 👩🏼‍💻 About me
+I'm a curious Full Stack Dev, eager to connect and learn ✨
 
-Curious Full Stack Dev, eager to connect and learn ✨
-
-- 👩🏼‍🎓 neuefische Web Development Bootcamp (graduate)
-- 📚 neuefische Java Development Bootcamp (currently)
+- 👩🏼‍🎓 Web Development Bootcamp (graduate)
+- 📚 Java Development Bootcamp (currently)
 - ⚓ based in Hamburg, Germany
+- 🧠 Skills:
+  <br/>`CSS` `Git` `HTML` `IntelliJ IDEA` `JavaScript` `Java` `Maven` `MongoDB` `Next.js` `React` `Shell` `Vercel` `Visual Studio Code`
 
 Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?locale=en_US).
 
-## 🧠 Skills
-
-- CSS
-- Git
-- HTML
-- IntelliJ IDEA
-- JavaScript
-- Java
-- Maven
-- MongoDB
-- Next.js
-- React
-- Shell
-- Vercel
-- Visual Studio Code
-
 ## 🔧 Projects
+#### [herbie – Guru of Health](https://github.com/nora-kauczor/herbie---Guru-of-Health)
 
-#### [herbie – Guru of Health](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony)
-
+- Remedies App
 - Four-week-project as journeyman’s piece for the neuefische Web Development Bootcamp
-- Tech Stack: React, next.js, MongoDB, SWR, Replicate AI, toatify, nextauth.js et. al.
+- Tech Stack: `React` `next.js` `MongoDB` `SWR` `Replicate AI` `toastify` `nextauth.js` et. al.
 - Special feature: AI generated images for user created recipes
 - Check out the Vercel implementation [here](https://herbie.vercel.app/)
 
 <img src="https://github.com/user-attachments/assets/9a49ec89-75fc-4fcd-88cc-2b61755a21bc" alt="Screenshot of herbie app" width="200"/>
 
 #### [Yumm! Home of Culinary Harmony](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony) (in progress)
+
 - Flavor Pairing App
-- Tech Stack: React, next.js, SWR, useRouter et.al.
+- Tech Stack: `React` `next.js` `SWR` `useRouter` et.al.
 
 
 
