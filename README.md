@@ -23,6 +23,12 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 
 <img src="https://github.com/user-attachments/assets/9a49ec89-75fc-4fcd-88cc-2b61755a21bc" alt="Screenshot of herbie app" width="200"/>
 
+#### [Wordio](https://github.com/nora-kauczor/Wordio) (work in progress)
+- Vocabulary Trainer
+- Four-week-project as journeyman’s piece for the neuefische Java Development Bootcamp
+- Tech Stack: `Spring` `React` `TypeScript` `MongoDB` `Mockito` `MockMvc` `JUnit` et. al.
+- Special feature: Self-developed calendar with an overview of the planned vocabulary
+
 #### [Yumm! Home of Culinary Harmony](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony) (in progress)
 
 - Flavor Pairing App
