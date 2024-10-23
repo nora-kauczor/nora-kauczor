@@ -8,7 +8,9 @@ I'm a curious Full Stack Dev, eager to connect and learn ✨
 - 📚 Java Development Bootcamp (currently)
 - ⚓ based in Hamburg, Germany
 - 🧠 Skills:
-  <br/>`CSS` `Git` `HTML` `IntelliJ IDEA` `JavaScript` `Java` `Maven` `MongoDB` `Next.js` `React` `Shell` `Vercel` `Visual Studio Code`
+  <br/>`JavaScript` `TypeScript` `React` `Next.js` `CSS` `HTML`
+  <br/>`Java` `Spring` `Maven` `MongoDB` `RESTful APIs`
+  <br/>`IntelliJ IDEA` `Visual Studio Code`
 
 Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?locale=en_US).
 
