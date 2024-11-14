@@ -25,7 +25,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
   - get remedy details incl. preparation
   - bookmark your favorite remedies
   - random remedy tip 
-  - create and edit your own remedies
+  - create, edit and delete your own remedies
   - Special feature: AI generated images for user created recipes ✨
 - Check out the Vercel deployment [here](https://herbie.vercel.app/)
 - In collaboration with @nattenhagen, @larissatori and @arne-witteler
@@ -36,7 +36,13 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 - Vocabulary Trainer
 - Four-week-project as journeyman’s piece for the neuefische Java Development Bootcamp
 - Tech Stack: `Spring` `React` `TypeScript` `MongoDB` `Mockito` `MockMvc` `JUnit` et. al.
-- Special feature: Self-developed calendar with an overview of the planned vocabulary
+- Features: 
+  - Wordio asks the user for the vocabulary with increasing intervals. If the user fails to give the right answer, he will be asked for it sooner again than eventually planned.
+  - tolerance for variations: alternate forms of user input are accepted as correct
+  - Pick the words you want to learn from provided ones, get a random vocab or create, edit and delete your own vocabulary
+  - Start or stop learning a word at any time
+  - Choose between Spanish French or Italian
+  - Special feature: A self-developed calendar provides an overview of the planned vocabulary, helping users stay on track with their learning schedule ✨
 
 #### [Yumm! Home of Culinary Harmony](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony) (in progress)
 
