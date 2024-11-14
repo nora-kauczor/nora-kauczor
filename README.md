@@ -4,8 +4,8 @@ It's nice having you here.
 
 I'm a curious Full Stack Dev, eager to connect and learn ✨
 
-- 👩🏼‍🎓 Web Development Bootcamp (graduate)
-- 📚 Java Development Bootcamp (currently)
+- 👩🏼‍🎓 Web Development Bootcamp
+- 👩🏼‍🎓 Java Development Bootcamp
 - ⚓ based in Hamburg, Germany
 - 🧠 Skills:
   <br/>`JavaScript` `TypeScript` `React` `Next.js` `CSS` `HTML`
