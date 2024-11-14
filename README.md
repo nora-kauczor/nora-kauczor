@@ -20,8 +20,15 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 - Remedies App
 - Four-week-project as journeyman’s piece for the neuefische Web Development Bootcamp
 - Tech Stack: `React` `next.js` `MongoDB` `SWR` `Replicate AI` `toastify` `nextauth.js` et. al.
-- Special feature: AI generated images for user created recipes
+- Features:
+  - browse remedies and search by symptoms
+  - get remedy details incl. preparation
+  - bookmark your favorite remedies
+  - random remedy tip 
+  - create and edit your own remedies
+  - Special feature: AI generated images for user created recipes ✨
 - Check out the Vercel deployment [here](https://herbie.vercel.app/)
+- In collaboration with @nattenhagen, @larissatori and @arne-witteler
 
 <img src="https://github.com/user-attachments/assets/9a49ec89-75fc-4fcd-88cc-2b61755a21bc" alt="Screenshot of herbie app" width="200"/>
 
