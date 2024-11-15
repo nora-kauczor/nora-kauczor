@@ -27,7 +27,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
   - Choose between Spanish French or Italian
   - Special feature: A self-developed calendar provides an overview of the planned vocabulary, helping users stay on track with their learning schedule ✨
 
- <img src="https://github.com/user-attachments/assets/64289937-af1f-489b-9485-f1f60f77b0ca" alt="Screenshots of Wordio app" width="800"/>
+ <img src="https://github.com/user-attachments/assets/64289937-af1f-489b-9485-f1f60f77b0ca" alt="Screenshots of Wordio app" width="750"/>
 
 #### [herbie – Guru of Health](https://github.com/nora-kauczor/herbie---Guru-of-Health)
 
@@ -44,14 +44,13 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 - Check out the Vercel deployment [here](https://herbie.vercel.app/)
 - In collaboration with @nattenhagen, @larissatori and @arne-witteler
 
-<img src="https://github.com/user-attachments/assets/9a49ec89-75fc-4fcd-88cc-2b61755a21bc" alt="Screenshot of herbie app" width="200"/>
+<img src="https://github.com/user-attachments/assets/392262e2-57f2-4855-9a20-1744242f994a" alt="Screenshots of herbie app" width="750"/>
 
 
 #### [Yumm! Home of Culinary Harmony](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony) (in progress)
 
 - Flavor Pairing App
 - Tech Stack: `React` `next.js` `SWR` `useRouter` et.al.
-
 
 
 
