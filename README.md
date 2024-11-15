@@ -2,12 +2,11 @@
 
 It's nice having you here.
 
-I'm a curious Full Stack Dev, eager to connect and learn ✨
+I'm a curious Junior Full Stack Dev, eager to connect and learn ✨
 
-- 👩🏼‍🎓 Web Development Bootcamp
-- 👩🏼‍🎓 Java Development Bootcamp
+- 👩🏼‍🎓 graduate of Web Development & Java Development Bootcamps
 - ⚓ based in Hamburg, Germany
-- 🧠 Skills:
+- 🧠 skills:
   <br/>`JavaScript` `TypeScript` `React` `Next.js` `CSS` `HTML`
   <br/>`Java` `Spring` `Maven` `MongoDB` `RESTful APIs`
   <br/>`IntelliJ IDEA` `Visual Studio Code`
