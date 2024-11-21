@@ -26,7 +26,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
   - Choose between Spanish French or Italian
   - Special feature: A self-developed calendar provides an overview of the planned vocabulary, helping users stay on track with their learning schedule ✨
 
- <img src="https://github.com/user-attachments/assets/64289937-af1f-489b-9485-f1f60f77b0ca" alt="Screenshots of Wordio app" width="750"/>
+  <img src="https://github.com/user-attachments/assets/424ef650-2dd7-4bc6-8168-31a362e97f70" alt="Screenshots of Wordio app" width="750"/>
 
 #### [herbie – Guru of Health](https://github.com/nora-kauczor/herbie---Guru-of-Health)
 
@@ -50,8 +50,4 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 
 - Flavor Pairing App
 - Tech Stack: `React` `next.js` `SWR` `useRouter` et.al.
-
-
-
-
 
