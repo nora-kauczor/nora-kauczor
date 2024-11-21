@@ -20,10 +20,10 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 - Tech Stack: `Spring` `React` `TypeScript` `MongoDB` `Mockito` `MockMvc` `JUnit` et. al.
 - Features: 
   - Wordio asks the user for the vocabulary with increasing intervals. If the user fails to give the right answer, he will be asked for it sooner again than eventually planned.
-  - tolerance for variations: alternate forms of user input are accepted as correct
+  - Tolerance for variations: alternate forms of user input are accepted as correct
   - Pick the words you want to learn from provided ones, get a random vocab or create, edit and delete your own vocabulary
   - Start or stop learning a word at any time
-  - Choose between Spanish French or Italian
+  - Choose between Spanish, French and Italian
   - Special feature: A self-developed calendar provides an overview of the planned vocabulary, helping users stay on track with their learning schedule ✨
 
   <img src="https://github.com/user-attachments/assets/424ef650-2dd7-4bc6-8168-31a362e97f70" alt="Screenshots of Wordio app" width="750"/>
