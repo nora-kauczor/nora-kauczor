@@ -34,11 +34,11 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 - Four-week-project as journeyman’s piece for the neuefische Web Development Bootcamp
 - Tech Stack: `React` `next.js` `MongoDB` `SWR` `Replicate AI` `toastify` `nextauth.js` et. al.
 - Features:
-  - browse remedies and search by symptoms
-  - get remedy details incl. preparation
-  - bookmark your favorite remedies
-  - random remedy tip 
-  - create, edit and delete your own remedies
+  - Browse remedies and search by symptoms
+  - Get remedy details incl. preparation
+  - Bookmark your favorite remedies
+  - Random remedy tip 
+  - Create, edit and delete your own remedies
   - Special feature: AI generated images for user created recipes ✨
 - Check out the Vercel deployment [here](https://herbie.vercel.app/)
 - In collaboration with @nattenhagen, @larissatori and @arne-witteler
