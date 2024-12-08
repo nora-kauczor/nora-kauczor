@@ -14,7 +14,7 @@ I'm a curious Junior Full Stack Dev, eager to connect and learn ✨
 Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?locale=en_US).
 
 ## 🔧 Projects
-#### [Wordio](https://github.com/nora-kauczor/Wordio)
+### [Wordio](https://github.com/nora-kauczor/Wordio)
 - Vocabulary Trainer
 - Four-week-project as journeyman’s piece for the neuefische Java Development Bootcamp
 - Tech Stack: `Spring` `React` `TypeScript` `MongoDB` `Mockito` `MockMvc` `JUnit` et. al.
@@ -28,7 +28,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 
   <img src="https://github.com/user-attachments/assets/424ef650-2dd7-4bc6-8168-31a362e97f70" alt="Screenshots of Wordio app" width="750"/>
 
-#### [herbie – Guru of Health](https://github.com/nora-kauczor/herbie---Guru-of-Health)
+### [herbie – Guru of Health](https://github.com/nora-kauczor/herbie---Guru-of-Health)
 
 - Remedies App
 - Four-week-project as journeyman’s piece for the neuefische Web Development Bootcamp
@@ -46,7 +46,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 <img src="https://github.com/user-attachments/assets/392262e2-57f2-4855-9a20-1744242f994a" alt="Screenshots of herbie app" width="750"/>
 
 
-#### [Yumm! Home of Culinary Harmony](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony) (in progress)
+### [Yumm! Home of Culinary Harmony](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony) (in progress)
 
 - Flavor Pairing App
 - Tech Stack: `React` `next.js` `SWR` `useRouter` et.al.
