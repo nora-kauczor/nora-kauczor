@@ -14,7 +14,7 @@ I'm a curious Junior Full Stack Dev, eager to connect and learn ✨
 Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?locale=en_US).
 
 ## 🔧 Projects
-#### [Wordio](https://github.com/nora-kauczor/Wordio) (work in progress)
+#### [Wordio](https://github.com/nora-kauczor/Wordio)
 - Vocabulary Trainer
 - Four-week-project as journeyman’s piece for the neuefische Java Development Bootcamp
 - Tech Stack: `Spring` `React` `TypeScript` `MongoDB` `Mockito` `MockMvc` `JUnit` et. al.
