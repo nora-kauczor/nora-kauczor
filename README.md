@@ -17,7 +17,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 ### [Wordio](https://github.com/nora-kauczor/Wordio)
 - Vocabulary Trainer
 - Four-week-project as journeyman’s piece for the neuefische Java Development Bootcamp
-- Tech Stack: `Spring` `React` `TypeScript` `MongoDB` `Mockito` `MockMvc` `JUnit` et. al.
+- Tech Stack: `Spring` `React` `TypeScript` `MongoDB` `Mockito` `MockMvc` `JUnit`, `Maven` (CD), `Render` (CI) et. al.
 - Features: 
   - Wordio asks the user for the vocabulary with increasing intervals. If the user fails to give the right answer, he will be asked for it sooner again than eventually planned.
   - Tolerance for variations: alternate forms of user input are accepted as correct
@@ -45,9 +45,19 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 
 <img src="https://github.com/user-attachments/assets/392262e2-57f2-4855-9a20-1744242f994a" alt="Screenshots of herbie app" width="750"/>
 
+### [Budget Control](https://github.com/nora-kauczor/budget-control) (in progress) 🆕
+Newly setup project - features planned so far: App with an overview of the planned budget (pie chart) for a month that allows users to monitor their spendings more easily. User sets a budget of what he wants to to spend in a month (in total and specified for cusotm categories). 
 
 ### [Yumm! Home of Culinary Harmony](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony) (in progress)
 
 - Flavor Pairing App
 - Tech Stack: `React` `next.js` `SWR` `useRouter` et.al.
+- Features:
+  - Browse and search for ingredients, browse and search for flavor combos with two search filters
+  - Get detailed info on ingredients
+  - Create, edit and delete your own flavor pairings
 
+### [Shopping List App](https://github.com/nora-kauczor/shopping-list)
+
+- Tech Stack: `Spring` `React` `TypeScript` `MongoDB` `Mockito` `MockMvc` `JUnit`, `Maven`, `OAuth` et. al.
+- In collaboration with @ssiebers, @sategie and @len-mar
