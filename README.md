@@ -48,7 +48,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
 <img src="https://github.com/user-attachments/assets/392262e2-57f2-4855-9a20-1744242f994a" alt="Screenshots of herbie app" width="750"/>
 
 ### [Budget Control](https://github.com/nora-kauczor/budget-control) (in progress) 🆕
-Newly setup project - features planned so far: App with an overview of the planned budget (pie chart) for a month that allows users to monitor their spendings more easily. User sets a budget of what he wants to to spend in a month (in total and specified for cusotm categories). 
+Newly setup project - features planned so far: App with an overview of the planned budget (pie chart) for a month that allows users to monitor their spendings more easily. User sets a budget of what he wants to to spend in a month (in total and specified for custom categories). 
 
 ### [Yumm! Home of Culinary Harmony](https://github.com/nora-kauczor/Yumm---Home-of-Culinary-Harmony) (in progress)
 
