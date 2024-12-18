@@ -24,7 +24,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
   - Pick the words you want to learn from provided ones, get a random vocab or create, edit and delete your own vocabulary
   - Start or stop learning a word at any time
   - Choose between Spanish, French and Italian
-  - Special feature: A self-developed calendar provides an overview of the planned vocabulary, helping users stay on track with their learning schedule ✨
+  - Special feature: A self-developed calendar provides an overview of the planned vocabulary, helping users to stay on track with their learning schedule ✨
   - Check out the Render deployment [here](https://wordio.onrender.com/login) (server needs 30sec+ to boot)
 
   <img src="https://github.com/user-attachments/assets/424ef650-2dd7-4bc6-8168-31a362e97f70" alt="Screenshots of Wordio app" width="750"/>
@@ -41,6 +41,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
   - Random remedy tip 
   - Create, edit and delete your own remedies
   - Special feature: AI generated images for user created recipes ✨
+  - Cutest mascot ever
 - Check out the Vercel deployment [here](https://herbie.vercel.app/)
 - In collaboration with @nattenhagen, @larissatori and @arne-witteler
 
