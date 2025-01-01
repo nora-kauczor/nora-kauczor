@@ -25,6 +25,7 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?loca
   - Start or stop learning a word at any time
   - Choose between Spanish, French and Italian
   - Special feature: A self-developed calendar provides an overview of the planned vocabulary, helping users to stay on track with their learning schedule ✨
+  - Check out the Render deployment [here](https://wordio.onrender.com/) (server takes 30sec+ to boot)
 
   <img src="https://github.com/user-attachments/assets/424ef650-2dd7-4bc6-8168-31a362e97f70" alt="Screenshots of Wordio app" width="750"/>
 
