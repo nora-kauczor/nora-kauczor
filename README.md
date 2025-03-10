@@ -8,7 +8,7 @@ I'm a curious Junior Full Stack Dev, eager to connect and learn ✨
 - ⚓ based in Hamburg, Germany
 - 🧠 skills:
   <br/>`JavaScript` `TypeScript` `React` `Next.js` `CSS` `HTML`
-  <br/>`Java``JUnit` `Mockito` `Spring` `Maven` `MongoDB` `RESTful APIs`
+  <br/>`Java` `JUnit` `Mockito` `Spring` `Maven` `MongoDB` `RESTful APIs`
   <br/>`IntelliJ IDEA` `Visual Studio Code`
 
 Learn more about me on [LinkedIn](https://www.linkedin.com/in/nora-kauczor/?locale=en_US).
